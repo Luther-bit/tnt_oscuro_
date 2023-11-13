@@ -31,6 +31,7 @@ defaults:
       categories: ""
 
 # Stastic UI
+
 remote_theme_layouts: 
   - ""
   - default
@@ -38,6 +39,7 @@ remote_theme_layouts:
   - post
   - home
   - category_index
+
 social_links:
   - twitter
   - instagram
