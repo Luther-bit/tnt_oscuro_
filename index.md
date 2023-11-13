@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: AthJek bit Theme
 
 ---
 
