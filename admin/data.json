@@ -1,8 +1,7 @@
----
-notPage:
+<notPage:
   - /admin/data.json
-layout:
----
+<layout:
+--------------
 {
   "collections": {
     {% for item in site.collections %}
